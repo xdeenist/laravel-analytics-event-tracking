@@ -1,5 +1,4 @@
 # Laravel Analytics Event Tracking
-https://twitter.com/pascalbaljet/status/1257926601339277312
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/protonemedia/laravel-analytics-event-tracking.svg?style=flat-square)](https://packagist.org/packages/protonemedia/laravel-analytics-event-tracking)
 ![run-tests](https://github.com/protonemedia/laravel-analytics-event-tracking/workflows/run-tests/badge.svg)
@@ -8,25 +7,6 @@ https://twitter.com/pascalbaljet/status/1257926601339277312
 [![Buy us a tree](https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen)](https://plant.treeware.earth/protonemedia/laravel-analytics-event-tracking)
 
 Laravel package to easily send events to [Google Analytics](https://analytics.google.com/)
-
-## Sponsor this package!
-
-❤️ We proudly support the community by developing Laravel packages and giving them away for free. If this package saves you time or if you're relying on it professionally, please consider [sponsoring the maintenance and development](https://github.com/sponsors/pascalbaljet). Keeping track of issues and pull requests takes time, but we're happy to help!
-
-## Laravel Splade
-
-**Did you hear about Laravel Splade? 🤩**
-
-It's the *magic* of Inertia.js with the *simplicity* of Blade. [Splade](https://github.com/protonemedia/laravel-splade) provides a super easy way to build Single Page Applications using Blade templates. Besides that magic SPA-feeling, it comes with more than ten components to sparkle your app and make it interactive, all without ever leaving Blade.
-
-## Features
-* Use [Laravel Events](https://laravel.com/docs/7.x/events) to track events with GA.
-* [Blade Directive](https://laravel.com/docs/7.x/blade#introduction) to easily store the Client ID.
-* Full access to the [underlying library](https://github.com/theiconic/php-ga-measurement-protocol).
-* API calls to GA are queued.
-* Easy to configure.
-* Compatible with Laravel 9.0.
-* PHP 8.0 or higher required.
 
 ## Installation
 
