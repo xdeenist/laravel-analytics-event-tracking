@@ -1,11 +1,5 @@
 # Laravel Analytics Event Tracking
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/protonemedia/laravel-analytics-event-tracking.svg?style=flat-square)](https://packagist.org/packages/protonemedia/laravel-analytics-event-tracking)
-![run-tests](https://github.com/protonemedia/laravel-analytics-event-tracking/workflows/run-tests/badge.svg)
-[![Quality Score](https://img.shields.io/scrutinizer/g/protonemedia/laravel-analytics-event-tracking.svg?style=flat-square)](https://scrutinizer-ci.com/g/protonemedia/laravel-analytics-event-tracking)
-[![Total Downloads](https://img.shields.io/packagist/dt/protonemedia/laravel-analytics-event-tracking.svg?style=flat-square)](https://packagist.org/packages/protonemedia/laravel-analytics-event-tracking)
-[![Buy us a tree](https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen)](https://plant.treeware.earth/protonemedia/laravel-analytics-event-tracking)
-
 Laravel package to easily send events to [Google Analytics](https://analytics.google.com/)
 
 ## Installation
